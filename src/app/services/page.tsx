@@ -5,7 +5,6 @@ import { Card, CardContent } from "@/components/ui/card";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MobileCTA from "@/components/MobileCTA";
-import Image from "next/image";
 import Link from "next/link";
 
 import {

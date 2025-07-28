@@ -1,14 +1,6 @@
 import Link from "next/link";
 
 const Footer = () => {
-  const quickLinks = [
-    "Home",
-    "Services",
-    "Portfolio",
-    "Blog",
-    "About",
-    "Contact",
-  ];
   const services = [
     "Website Development",
     "Digital Marketing",

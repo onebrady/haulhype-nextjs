@@ -102,7 +102,7 @@ const BlogPost1 = () => {
               <p className="text-lg md:text-xl text-neutral-700 mb-8">
                 Discover proven digital marketing strategies that construction
                 companies can use to generate more leads and grow their business
-                in today's competitive market.
+                in today&apos;s competitive market.
               </p>
               <div className="flex items-center gap-4 text-sm text-neutral-600">
                 <span>By HaulHype Team</span>
@@ -132,8 +132,8 @@ const BlogPost1 = () => {
               <article className="prose prose-lg max-w-none">
                 <h2>Introduction</h2>
                 <p>
-                  In today's digital age, construction companies need more than
-                  just traditional marketing methods to stay competitive.
+                  In today&apos;s digital age, construction companies need more
+                  than just traditional marketing methods to stay competitive.
                   Digital marketing offers construction businesses powerful
                   tools to reach their target audience, generate qualified
                   leads, and grow their revenue.
@@ -144,8 +144,8 @@ const BlogPost1 = () => {
                   The construction industry is increasingly going digital, with
                   more decision-makers researching contractors and services
                   online before making purchasing decisions. A strong digital
-                  presence is no longer optional—it's essential for business
-                  growth.
+                  presence is no longer optional—it&apos;s essential for
+                  business growth.
                 </p>
 
                 <h2>Key Digital Marketing Strategies</h2>
@@ -153,9 +153,9 @@ const BlogPost1 = () => {
                 <h3>1. Search Engine Optimization (SEO)</h3>
                 <p>
                   Local SEO is crucial for construction companies. Optimize your
-                  website for local search terms like "construction services in
-                  [city]" and "contractors near me." This helps you appear in
-                  local search results and Google Maps.
+                  website for local search terms like &quot;construction
+                  services in [city]&quot; and &quot;contractors near me.&quot;
+                  This helps you appear in local search results and Google Maps.
                 </p>
 
                 <h3>2. Pay-Per-Click (PPC) Advertising</h3>
@@ -168,8 +168,8 @@ const BlogPost1 = () => {
 
                 <h3>3. Content Marketing</h3>
                 <p>
-                  Create valuable content that addresses your customers' pain
-                  points. Blog posts, case studies, and project showcases
+                  Create valuable content that addresses your customers&apos;
+                  pain points. Blog posts, case studies, and project showcases
                   demonstrate your expertise and help establish trust with
                   potential clients.
                 </p>
